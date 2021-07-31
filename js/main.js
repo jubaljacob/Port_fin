@@ -61,7 +61,7 @@ function scrollTop (){
 window.addEventListener('scroll', scrollTop)
 
 
-/*===== SHOW SCROLL TOP =====*/ 
+
 
 
 /*===== MIXITUP FILTER PORTFOLIO =====*/ 
