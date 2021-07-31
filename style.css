@@ -362,13 +362,13 @@ img{
 }
 
 .qualification__title-icon{
-    font-size: var(--mb-1);
+    font-size: 1.5rem;
     margin-right: var(--mb-1);
 }
 
 .qualification__box{
     padding-bottom: 1rem;
-    border-bottom: 1rem;
+    border-bottom: 1rem solid #ccc;
 }
 
 .qualification__area{
