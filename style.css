@@ -396,7 +396,27 @@ img{
     box-shadow: 0 4px 6px rgba(174,190,205,.3)
 }
 
+.services__icon, .services__title{
+    margin-bottom: var(--mb-2);
+    color: var(--first-color);
 
+}
+
+.services__icon{
+    font-size: 3rem;
+}
+
+.services__title{
+    font-size: var(--h3-font-size);
+}
+
+.services__description{
+    margin-bottom: var(--mb-4);
+}
+
+.services__data:hover{
+    
+}
 /*===== PROJECT IN MIND =====*/
 
 
