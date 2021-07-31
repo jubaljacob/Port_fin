@@ -387,6 +387,14 @@ img{
     display: bolck;
 }
 /*===== SERVICES =====*/
+.services__data{
+    padding: 3rem 1rem;
+    background-color: #FFF;
+    border-radius: .5rem;
+    text-align: center;
+    transition: .4s;
+    box-shadow: 0 4px 6px rgba(174,190,205,.3)
+}
 
 
 /*===== PROJECT IN MIND =====*/
